@@ -10,7 +10,7 @@ You will be working on 3 problems in the `problems` folder. Test cases are provi
     who's there
 
 ## Challenge 1
-In `pb1.py`, create a function that `replace_spaces` that accepts two inputs:
+In `pb1.py`, create a function, `replace_spaces`, that accepts two inputs:
 - A string that represents a sentence
 - The punctuation character that will replace the spaces in the sentence
 
@@ -27,7 +27,7 @@ Test__This_is_a_test__Testing_
 ```
 
 ## Challenge 2
-In `pb2.py`, create a function that given a list of numbers (positive or negative integers), it will return a list containing the indices of the two highest values. Order of the returned indices does not matter.
+In `pb2.py`, create a function, 'max_values' that given a list of numbers (positive or negative integers), it will return a list containing the indices of the two highest values. Order of the returned indices does not matter.
 
 Usage
 ```python
@@ -39,7 +39,7 @@ Output:
 ```
 
 ## Challenge 3
-In `pb3.py`, create a function that takes a dictionary of student names and their ages as input 
+In `pb3.py`, create a function, 'youngest_student', that takes a dictionary of student names and their ages as input 
 and returns the name of the youngest student.
 
 Usage:
